@@ -1,0 +1,96 @@
+
+  /* Estilos generales */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 20px;
+  }
+  footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 46%;
+    height: 20px;
+    background-color: black;
+    color: white;
+    font-size: 12px;
+    text-align: center;
+    line-height: 20px;
+  }
+  
+
+  /* Estilos de la tabla */
+  table {
+    width: 100%;
+    color: white;
+    border-collapse: collapse;
+    background-color: #5e5b5b;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    overflow: hidden; /* Ocultar cualquier contenido que se desborde */
+  }
+
+  table thead {
+    background-color: #131111;
+  }
+
+  table thead th {
+    padding: 15px;
+    font-weight: bold;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+
+  table tbody tr:nth-child(even) {
+    background-color: #8b8484;
+  }
+
+  table tbody td {
+    padding: 15px;
+    border-bottom: 1px solid #ddd;
+  }
+
+  table tbody img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+
+  /* Estilos adicionales */
+  table caption {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  table tbody td:first-child {
+    font-weight: bold;
+    color: #ffffff;
+  }
+
+  table tbody tr:hover {
+    background-color: #c3934c;
+  }
+
+  /* Estilos responsivos */
+  @media screen and (max-width: 768px) {
+    table {
+      font-size: 0.9em;
+    }
+
+    table thead th {
+      padding: 10px;
+    }
+
+    table tbody td {
+      padding: 10px;
+    }
+
+    table tbody img {
+      width: 40px;
+      height: 40px;
+    }
+  }
+
