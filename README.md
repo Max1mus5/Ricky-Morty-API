@@ -1,4 +1,4 @@
-# [Proyecto de la API de Rick and Morty](https://ricky-morty-p4i7izuxh-max1mus5.vercel.app/)
+[Proyecto de la API de Rick and Morty](https://ricky-morty-p4i7izuxh-max1mus5.vercel.app/)
 
 Este proyecto utiliza la API de Rick and Morty para mostrar información sobre los personajes de la serie. A continuación, se presenta una tabla con detalles sobre algunos de los personajes, incluyendo su nombre, estado y dos imágenes: la imagen del personaje original y una imagen de su alter ego en otro capítulo de la serie.
 
