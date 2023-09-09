@@ -4,9 +4,9 @@ Este proyecto utiliza la API de Rick and Morty para mostrar información sobre l
 
 | Nombre del Personaje | Estado | Imagen Original | Imagen del Alter Ego |
 |----------------------|--------|-----------------|-----------------------|
-| Rick Sanchez         | Vivo   | ![Rick Sanchez](link_a_imagen_original_rick) | ![Rick C-137](link_a_imagen_alter_ego_rick) |
-| Morty Smith          | Vivo   | ![Morty Smith](link_a_imagen_original_morty) | ![Evil Morty](link_a_imagen_alter_ego_morty) |
-| Summer Smith         | Vivo   | ![Summer Smith](link_a_imagen_original_summer) | ![Summer's Alter Ego](link_a_imagen_alter_ego_summer) |
+| Rick Sanchez         | Vivo   | ![Rick Sanchez](https://rickandmortyapi.com/api/character/avatar/1.jpeg) | ![Adjudicator Rick](https://rickandmortyapi.com/api/character/avatar/8.jpeg) |
+| Morty Smith          | Vivo   | ![Morty Smith](https://rickandmortyapi.com/api/character/avatar/2.jpeg) | ![Evil Morty](https://rickandmortyapi.com/api/character/avatar/118.jpeg) |
+| Summer Smith         | Vivo   | ![Summer Smith](https://rickandmortyapi.com/api/character/avatar/3.jpeg) | ![Summer Smith"](https://rickandmortyapi.com/api/character/avatar/339.jpeg) |
 
 ## Instrucciones de Uso
 
